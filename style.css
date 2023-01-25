@@ -1,5 +1,7 @@
 @media (max-width: 600px) {
-    
+    body {
+        margin: auto;
+    }
 }
 
 body {
