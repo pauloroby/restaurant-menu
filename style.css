@@ -1,3 +1,7 @@
+@media (max-width: 600px) {
+    
+}
+
 body {
     background-color: blanchedalmond;
 }
@@ -70,3 +74,4 @@ header p {
 .fundo {
     margin: 0px -146px 0px -146px;
 }
+
